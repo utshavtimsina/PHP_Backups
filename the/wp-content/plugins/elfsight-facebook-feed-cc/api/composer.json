@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [
+            "vendor/elfsight",
+            "api-options.php"
+        ]
+    },
+    "require": {
+        "guzzlehttp/guzzle": "6.x",
+        "kasp3r/link-preview": "dev-master"
+    }
+}

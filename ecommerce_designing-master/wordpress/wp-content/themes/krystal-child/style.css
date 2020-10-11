@@ -1,0 +1,40 @@
+/*
+
+Theme Name: krystal child
+
+Template: Krystal
+
+Version: 1.0.3
+
+
+*/
+
+.row{
+    text-align: center;
+}
+
+.site-title{
+    text-align: center;
+    color: black;
+    text-shadow: 0 0 6px black;
+}
+
+.site-description{
+    text-align: center;
+    color: blue;
+    text-shadow: 0 0 6px cyan;
+}
+
+a {
+    color:firebrick;
+    text-decoration: none;
+}
+
+p {
+    color:darkorange;
+    text-decoration: none;
+}
+
+element.style {
+    color: white;
+}
